@@ -24,8 +24,6 @@ public class ModelRecyclerView extends RecyclerView.Adapter<ModelRecyclerView.Vi
     {
         this.context=context;
         this.arrayList=arrayList;
-
-
     }
 
     @NonNull
